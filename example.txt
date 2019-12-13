@@ -1,2 +1,6 @@
 hello new file in master branch
+<<<<<<< HEAD
 file changes made in local
+=======
+changes made by another person
+>>>>>>> 16dd4be9d3463609705d2fef5c36886ad6825d89
